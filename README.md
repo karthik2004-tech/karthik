@@ -7,7 +7,6 @@ My interests include computer vision, analytics, and intelligent systems.
 ---
 ## 🚀 What I Work On
 - Data Science & Machine Learning projects  
-- Computer Vision systems (ANPR, detection systems)  
 - Data analysis & visualization  
 - Web-based dashboards and applications  
 ---
@@ -22,7 +21,6 @@ My interests include computer vision, analytics, and intelligent systems.
 - **Other:** Data Analysis, Problem Solving, Project Development  
 ---
 ## 📌 Highlights
-- Developed an Automatic Number Plate Recognition (ANPR) system  
 - Completed the Amazon ML Challenge with applied ML workflows  
 - Worked on financial data analysis using real company filings  
 - Built healthcare and data management mini-projects  
